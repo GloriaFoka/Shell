@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#this script display the executer shell
+
+# echo "I was called by: " $1
+
+nom="Mekue jasmine"
+
+
+echo $nom
